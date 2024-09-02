@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @minecraftmelonman
 - 👀 I’m interested in coding games and other stuff
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on no one
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm still alive
 
 <!---
