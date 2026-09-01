@@ -9,7 +9,7 @@
 
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder) ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder) ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 
 
